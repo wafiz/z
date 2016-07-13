@@ -1,0 +1,121 @@
+*{
+	margin:0;
+	padding:0;
+}
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+#wrapper{
+	width:960px;
+	height:auto;
+	margin:0 auto;
+	border:1px solid gray;
+}
+#header{
+	width:960px;
+	height:100px;
+	background-color:gray;
+}
+form{
+	color:white;
+	width:50%;
+}
+#logo{
+	float:right;
+}
+#navul{
+	float:right;
+	
+}
+#navul ul{
+	list-style: none;
+	margin-top:30px;
+}
+#navul ul li{
+	float:right;
+	margin:10px;
+	color:white;
+	margin-right:23px;
+}
+#content{
+	margin-right:5px;
+	float:right;
+	width:960px;
+	height:900px;
+}
+.box1{
+	
+	margin:10px;
+	float:right;
+	margin-top:30px;
+	width:291px;
+	height:354px;
+	background-image: url("../images/pazpic.JPG");
+}
+.box2{
+	
+	margin:10px;
+	float:right;
+	margin-top:30px;
+	width:291px;
+	height:354px;
+	background-image: url("../images/zekok.jpg");
+}
+.box3{
+	
+	margin:10px;
+	float:right;
+	margin-top:30px;
+	width:291px;
+	height:354px;
+	background-image: url("../images/taaseot.jpg");
+}
+.textc{
+	direction:rtl;
+	margin-right:5px;
+	float:right;
+	margin-top:220px;
+	width:240px;
+	height:130px;
+	color:white;
+	background-color:rgba(128, 128, 128, 0.71);
+}
+.textc p{
+	float:right;
+}
+.square1{
+	margin:10px;
+	float: right;
+    width: 292px;
+    height: 216px;
+    background: url("../images/small_cube_bg.png") 
+}
+.square1 h4{
+	float:right;
+	margin-top:3px;
+	margin-right:15px;
+}
+.square1 img{
+	margin-top: 30px;
+	margin-left: 15px;
+}
+.square1 a{
+	float:right;
+	margin-top: 30px;
+}
+#footer{
+	clear:both;
+	width:100%;
+	height:50px;
+	background-color:gray;
+}
+#footer ul{
+	list-style: none;
+	
+}
+#footer ul li{
+     float:right;
+     margin-top:10px;
+}

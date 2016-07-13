@@ -1,1 +1,3 @@
-bgbgbgbg
+*.class
+*.pyc
+*.pyo
